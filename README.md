@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi! i am:
+👥 ArtemMine37 (aka knowd_0nt)
+i'm working on:
+👾 Windows Defender corrupter
+⌨ SNS-DOS (aka funny CLI "os" program with its own GUI)
 
 <!--
 **ArtemMine37/ArtemMine37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
