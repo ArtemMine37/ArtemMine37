@@ -1,5 +1,5 @@
-### hi! i am:
-- 👥 ArtemMine37
+### Hi there!
+- i'm ArtemMine37 (or even 'notspoon' if you have seen me somewhere else)
 - i'm working on:
 - - 👾 Windows Defender corrupter
 - - ⌨ SNS-DOS (aka funny CLI "os" program with its own GUI)
